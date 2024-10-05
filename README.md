@@ -22,3 +22,9 @@ the primary source of data used here is Data Sales.csv and this is an open sourc
    1. Data loading and inspection
    2. Handling missing variables
    3. data Cleaning and formmatting
+
+### Exploratory Data Analysis
+EDA invoved the exploratory of the Data to answer some questions about the Data such as;
+-   What is the overall sales trend
+-   Which product are top sellers
+-   What are the products on peak sales

@@ -2,7 +2,14 @@
 
 ### Project Title: E Commece Sales Analysis 
 
-### PROJECT OVERVIEW
+[Project Overview](#project-overview)
+    
+Data Sources
+    
+Tools Used
+    
+Data Cleaning and Preparation
+
 ---
 This Data Analysis project aim to generate insight into the sales performance of the Ecommerce over the past years., by analysing the various parameters in the data recieved we seek to gather enough insight to make reasonale decisions which then enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data
 
@@ -58,7 +65,6 @@ https://github.com/Mbiatkeobong/LITA_PROJECTS_DOCUMENTATION/blob/main/IMG_202311
 
 :😂
 
-|Heading 1|Heading 2||Heading 3| 
-|--------|----------|----------|
-
-|Table 1 |Table 2| Table 3|
+|Heading 1|Heading 2|Heading 3| 
+|---------|---------|---------|
+|Table 1  |Table   2|  Table 3|

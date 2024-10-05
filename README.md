@@ -1,4 +1,4 @@
-# LITA_PROJECT-_DOCUMENTATION
+# LITA_PROJECT_DOCUMENTATION
 
 ### Project Title: E Commece Sales Analysis 
 

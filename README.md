@@ -3,6 +3,7 @@
 ### Project Title: Pinkasonn Sales Analysis 
 
 [Project Overview](#project-overview)
+---
     
 Data Sources
     
@@ -43,8 +44,9 @@ EDA invoved the exploratory of the Data to answer some questions about the Data 
 -   What are the products on peak sales
   
 ## Data Analysis
----
-This is where we include some basic lines of code or queries or even some of the DAX epressions used during your analysis
+
+This is where we include some basic lines of code or queries or even some of 
+the DAX epressions used during your analysis;
 
 ```SQL
 SELECT * FROM TABLE1

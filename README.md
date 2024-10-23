@@ -1,6 +1,6 @@
 # LITA_PROJECT_DOCUMENTATION
 
-### Project Title: E Commece Sales Analysis 
+### Project Title: Pinkasonn Sales Analysis 
 
 [Project Overview](#project-overview)
     
@@ -24,7 +24,8 @@ the primary source of data used here is Data Sales.csv and this is an open sourc
   2. for Analysis
   3. for Data Visualization
     
-- SQL - Structure Query Language for queering of data 
+- SQL - Structure Query Language for queering of data
+- PBI - For data modelling
 - GitHUB for Portfolio Building
 
   ### Data Cleaning and Preparation

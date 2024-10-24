@@ -21,7 +21,7 @@ the primary source of data used here is Data Sales.csv and this is an open sourc
 ### Tools Used
 ---
 - Microsoft Excel [Download Here](https://www.microsoft.com)
-  1. for data cleaning: This is thevremoval of all the unwanted attachement from your data, clean it, before presenting it.
+  1. for data cleaning: This is the removal of all the unwanted attachement from your data, clean it, before presenting it.
 
   2. for Analysis.This is where you shoud look critically and think analytically on the expresdion of your data.
 

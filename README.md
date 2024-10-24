@@ -59,12 +59,6 @@ WHERE CONDITION = TRUE
 
 
 
-https://github.com/Mbiatkeobong/LITA_PROJECTS_DOCUMENTATION/blob/main/.trashed-1722077407-IMG_20240627_114915_712.jpg
-
-https://github.com/Mbiatkeobong/LITA_PROJECTS_DOCUMENTATION/blob/main/IMG_20231113_100119_605.jpg
-
-
-:💖
 
 :😂
 
